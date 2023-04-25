@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @IriaLuz
-- 🌱 I’m currently learning React Js
 - 📫 How to reach me irialuzs@gmail.com
 
 <!---
